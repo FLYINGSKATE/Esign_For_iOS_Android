@@ -1,0 +1,8 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/we3/nuniyoekyc/BuildConfig.java
+ com.we3.nuniyoekyc.BuildConfig
+com/we3/nuniyoekyc/MainActivity.java
+ com.we3.nuniyoekyc.MainActivity
+com/we3/nuniyoekyc/DigioActivity.java
+ com.we3.nuniyoekyc.DigioActivity

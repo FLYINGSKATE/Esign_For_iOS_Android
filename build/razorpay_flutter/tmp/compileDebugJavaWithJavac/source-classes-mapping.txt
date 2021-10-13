@@ -1,0 +1,6 @@
+com/razorpay/razorpay_flutter/RazorpayDelegate.java
+ com.razorpay.razorpay_flutter.RazorpayDelegate
+com/razorpay/razorpay_flutter/RazorpayFlutterPlugin.java
+ com.razorpay.razorpay_flutter.RazorpayFlutterPlugin
+com/razorpay/razorpay_flutter/BuildConfig.java
+ com.razorpay.razorpay_flutter.BuildConfig

@@ -1,0 +1,660 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:1:1-58:12
+MERGED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:1:1-58:12
+MERGED from [:geolocator_android] C:\Users\Tohiba\nuniyoekyc\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:file_picker] C:\Users\Tohiba\nuniyoekyc\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:local_auth] C:\Users\Tohiba\nuniyoekyc\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:camera] C:\Users\Tohiba\nuniyoekyc\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Tohiba\nuniyoekyc\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] C:\Users\Tohiba\nuniyoekyc\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:syncfusion_flutter_pdfviewer] C:\Users\Tohiba\nuniyoekyc\build\syncfusion_flutter_pdfviewer\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter] C:\Users\Tohiba\nuniyoekyc\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] C:\Users\Tohiba\nuniyoekyc\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoder] C:\Users\Tohiba\nuniyoekyc\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_cropper] C:\Users\Tohiba\nuniyoekyc\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player] C:\Users\Tohiba\nuniyoekyc\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sim_info] C:\Users\Tohiba\nuniyoekyc\build\sim_info\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:fluttertoast] C:\Users\Tohiba\nuniyoekyc\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info_plus] C:\Users\Tohiba\nuniyoekyc\build\device_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] C:\Users\Tohiba\nuniyoekyc\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:razorpay_flutter] C:\Users\Tohiba\nuniyoekyc\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:permission_handler] C:\Users\Tohiba\nuniyoekyc\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:camerawesome] C:\Users\Tohiba\nuniyoekyc\build\camerawesome\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:digio_esign_sdk] C:\Users\Tohiba\nuniyoekyc\build\digio_esign_sdk\.transforms\dd0830328fa43be7ff6a4ce844694427\jetified-digio-esign-v2.8.4\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\a63a118513cbd8eefe63bde2bbc71c09\jetified-core-ktx-1.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5e5e9b140668497482a6a54ebf052fb5\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-view:1.0.0-alpha25] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ef493f9620c3eea9df82b79de019fd31\jetified-camera-view-1.0.0-alpha25\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e5a4b283c7eba2f6639aba28c57bb651\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\789056b2c6f3105b84451c617729bd65\jetified-ucrop-2.2.7\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\44ab6804b80638410c6c0827d4445946\biometric-1.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\8e826fe49562abada5d181756485a861\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\f241f9a95582346970dfd83e652c1d46\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-camera2:1.1.0-alpha05] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\956a582b1fff1628f0716bd6fb0f3732\jetified-camera-camera2-1.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-alpha05] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7b10353f3ede6cce81081ecfa1257853\jetified-camera-lifecycle-1.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.1.0-alpha05] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c57f163f3e5e88ebbd9a7f945bab78\jetified-camera-core-1.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5243c73678f8e6064aff34f2396fbf10\jetified-play-services-mlkit-face-detection-16.1.7\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:vision-common:16.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\38c9bdad0482b827ab35c5befbf43a66\jetified-vision-common-16.3.0\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\0d6ff85b25e6e52b269b3e009bb6194a\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\3bb21b1136fbfe94f6db9b5496fef015\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\61dc29951a451b38e03eb63efbda5343\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\154602205569c6147c1ab4260dd9d425\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\17959936f75234613fb11b8c15b12e4a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\6ecbd03c0ba003b6c6cab88140d4ae56\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\8d9a160bad4acf7c4d7eed30d2bebfd0\webkit-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d0491d6f6ed4684d22d5f7d4bcab23f0\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\a31267c2b9cb16c8c6674a974edcadc5\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\80d87a1569fa646d87abf499e88e622c\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ae7e24b3175291cd1958f55269920237\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\dcc76cd07ebcaa6166d73d461b1667fa\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\1675b34388eef9cd67e00c658e34dbca\jetified-transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d3f23bf419afd21e5d8ed4bfd198a6dd\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\18179d51c9380cb4845e7219be1c08c7\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\88e514d819cd691a05d7f01d8820d6ee\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\077b22dfcccfdcca1172c5bd4cc560e1\jetified-play-services-auth-api-phone-17.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d9f7417257ce9d9b304b9cdd707bf251\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\acf8eebad1ee22a70ce9fdfcd13b52af\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\9b2b6461b9eaeae3ee3880bbefba2904\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7d64a1cd2514583b2a458dd887234110\jetified-play-services-base-17.6.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\851cd8c44ebf76c5b47504ad4cc94222\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ef51764e1ba19e8bfbf77163877ed30c\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\b30aa8f2c38872540ef1352302c9199c\jetified-play-services-basement-17.6.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\0fe786355672e38948fbc9c1fff747a3\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\2f70304b103eacfab05dbe55739e869f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\49dee3543bc65746b6bba9f83aa0b18a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\bcd808757e47d4888ffa27457339053b\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\22a5d9f52d495a432176451a4c4ba982\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\2c07f8b2725cf3ca7c7510a86eb18cae\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\86cf751735e9e9dd0416cce35c4a71a1\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5c64f35c4f864d4cd139ccbbff91ceb9\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\9b944abc3171b1b947c5fff909724ff1\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\1cfe8ee384ca28182df52c824e57e5c0\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\6704617e5cf2b2cf363841e778f9329d\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\2ee35bfe9d2e9019f071c4a047a96db2\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\361553562ce35cf8cf447832c4a7d1ec\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eebedfd6526cd5539e0a44e6886856e3\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\cf37ac08cdad525e46b47ab5b0406817\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\992030e32b5b233f7b54200907a8c687\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb99decb44820e6dccd0fcc1b7518938\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\3d71f750e18beb8ec39e98e4d040998e\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d55c7cacb6c69466b5c0c5f5a02c7d4c\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\694d764a55c8785e30f85a7f0e3ee2a7\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\6e0f82970a69a6b386ee45a08ac362fe\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\bae4382a703142a8f82a100a412243f1\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\11ae9ec956d6bcf258c0fc60ed922820\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\a49d8fed6e1f73515c23ded9f02890c2\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\df0a93a66421fbf9e2a59afc1676f766\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\9611d01e277af0a0bee38db16de6184f\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\1b748a836e371cc29277a1943e291316\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\268ebc0b2bd661fb18fff0cceeca14c7\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7c1a7b78a9eb87d9a948f050e96a4e5d\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d366a337c598925c2a6ebaad24d3d1db\jetified-rxandroid-3.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\09be362b5b17ae2df23db8d40e6cc2f1\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:1:1-58:12
+		INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:1:1-58:12
+		INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from [:file_picker] C:\Users\Tohiba\nuniyoekyc\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] C:\Users\Tohiba\nuniyoekyc\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:4:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:9:4-57:19
+MERGED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:url_launcher] C:\Users\Tohiba\nuniyoekyc\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] C:\Users\Tohiba\nuniyoekyc\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:razorpay_flutter] C:\Users\Tohiba\nuniyoekyc\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:razorpay_flutter] C:\Users\Tohiba\nuniyoekyc\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5e5e9b140668497482a6a54ebf052fb5\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5e5e9b140668497482a6a54ebf052fb5\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\f241f9a95582346970dfd83e652c1d46\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\f241f9a95582346970dfd83e652c1d46\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5243c73678f8e6064aff34f2396fbf10\jetified-play-services-mlkit-face-detection-16.1.7\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5243c73678f8e6064aff34f2396fbf10\jetified-play-services-mlkit-face-detection-16.1.7\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\38c9bdad0482b827ab35c5befbf43a66\jetified-vision-common-16.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\38c9bdad0482b827ab35c5befbf43a66\jetified-vision-common-16.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\6ecbd03c0ba003b6c6cab88140d4ae56\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\6ecbd03c0ba003b6c6cab88140d4ae56\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:11:5-30:19
+MERGED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d9f7417257ce9d9b304b9cdd707bf251\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d9f7417257ce9d9b304b9cdd707bf251\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\acf8eebad1ee22a70ce9fdfcd13b52af\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\acf8eebad1ee22a70ce9fdfcd13b52af\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7d64a1cd2514583b2a458dd887234110\jetified-play-services-base-17.6.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7d64a1cd2514583b2a458dd887234110\jetified-play-services-base-17.6.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\851cd8c44ebf76c5b47504ad4cc94222\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\851cd8c44ebf76c5b47504ad4cc94222\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ef51764e1ba19e8bfbf77163877ed30c\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ef51764e1ba19e8bfbf77163877ed30c\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\b30aa8f2c38872540ef1352302c9199c\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\b30aa8f2c38872540ef1352302c9199c\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eebedfd6526cd5539e0a44e6886856e3\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eebedfd6526cd5539e0a44e6886856e3\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\cf37ac08cdad525e46b47ab5b0406817\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\cf37ac08cdad525e46b47ab5b0406817\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eebedfd6526cd5539e0a44e6886856e3\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:11:9-43
+activity#com.we3.nuniyoekyc.MainActivity
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:12:9-40:20
+	android:launchMode
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:13:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:23:13-26:17
+	android:resource
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:25:15-52
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:24:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:32:13-35:17
+	android:resource
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:34:15-61
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:33:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.we3.nuniyoekyc.DigioActivity
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:41:8-45:19
+	android:screenOrientation
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:44:12-48
+	android:theme
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:43:12-68
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:42:12-41
+activity#com.digio.in.esign2sdk.DigioEsignActivity
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:46:8-47:94
+	android:configChanges
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:47:12-82
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:46:18-74
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:48:8-51:70
+	android:screenOrientation
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:50:12-48
+	android:theme
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:51:12-68
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:49:12-59
+meta-data#flutterEmbedding
+ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:54:9-56:33
+	android:value
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:56:13-30
+	android:name
+		ADDED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml:55:13-44
+uses-sdk
+INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml
+MERGED from [:geolocator_android] C:\Users\Tohiba\nuniyoekyc\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\Tohiba\nuniyoekyc\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\Tohiba\nuniyoekyc\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\Tohiba\nuniyoekyc\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] C:\Users\Tohiba\nuniyoekyc\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:local_auth] C:\Users\Tohiba\nuniyoekyc\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:camera] C:\Users\Tohiba\nuniyoekyc\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:camera] C:\Users\Tohiba\nuniyoekyc\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Tohiba\nuniyoekyc\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Tohiba\nuniyoekyc\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\Tohiba\nuniyoekyc\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\Tohiba\nuniyoekyc\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:syncfusion_flutter_pdfviewer] C:\Users\Tohiba\nuniyoekyc\build\syncfusion_flutter_pdfviewer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:syncfusion_flutter_pdfviewer] C:\Users\Tohiba\nuniyoekyc\build\syncfusion_flutter_pdfviewer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] C:\Users\Tohiba\nuniyoekyc\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] C:\Users\Tohiba\nuniyoekyc\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\Tohiba\nuniyoekyc\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\Tohiba\nuniyoekyc\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] C:\Users\Tohiba\nuniyoekyc\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] C:\Users\Tohiba\nuniyoekyc\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\Tohiba\nuniyoekyc\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\Tohiba\nuniyoekyc\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] C:\Users\Tohiba\nuniyoekyc\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] C:\Users\Tohiba\nuniyoekyc\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sim_info] C:\Users\Tohiba\nuniyoekyc\build\sim_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sim_info] C:\Users\Tohiba\nuniyoekyc\build\sim_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\Tohiba\nuniyoekyc\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\Tohiba\nuniyoekyc\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] C:\Users\Tohiba\nuniyoekyc\build\device_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] C:\Users\Tohiba\nuniyoekyc\build\device_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\Tohiba\nuniyoekyc\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\Tohiba\nuniyoekyc\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] C:\Users\Tohiba\nuniyoekyc\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] C:\Users\Tohiba\nuniyoekyc\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\Tohiba\nuniyoekyc\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\Tohiba\nuniyoekyc\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:camerawesome] C:\Users\Tohiba\nuniyoekyc\build\camerawesome\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:camerawesome] C:\Users\Tohiba\nuniyoekyc\build\camerawesome\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:digio_esign_sdk] C:\Users\Tohiba\nuniyoekyc\build\digio_esign_sdk\.transforms\dd0830328fa43be7ff6a4ce844694427\jetified-digio-esign-v2.8.4\AndroidManifest.xml:5:5-7:41
+MERGED from [:digio_esign_sdk] C:\Users\Tohiba\nuniyoekyc\build\digio_esign_sdk\.transforms\dd0830328fa43be7ff6a4ce844694427\jetified-digio-esign-v2.8.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\a63a118513cbd8eefe63bde2bbc71c09\jetified-core-ktx-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\a63a118513cbd8eefe63bde2bbc71c09\jetified-core-ktx-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5e5e9b140668497482a6a54ebf052fb5\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5e5e9b140668497482a6a54ebf052fb5\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.0.0-alpha25] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ef493f9620c3eea9df82b79de019fd31\jetified-camera-view-1.0.0-alpha25\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.0.0-alpha25] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ef493f9620c3eea9df82b79de019fd31\jetified-camera-view-1.0.0-alpha25\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e5a4b283c7eba2f6639aba28c57bb651\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e5a4b283c7eba2f6639aba28c57bb651\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\789056b2c6f3105b84451c617729bd65\jetified-ucrop-2.2.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\789056b2c6f3105b84451c617729bd65\jetified-ucrop-2.2.7\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\44ab6804b80638410c6c0827d4445946\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\44ab6804b80638410c6c0827d4445946\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\8e826fe49562abada5d181756485a861\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\8e826fe49562abada5d181756485a861\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\f241f9a95582346970dfd83e652c1d46\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\f241f9a95582346970dfd83e652c1d46\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-alpha05] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\956a582b1fff1628f0716bd6fb0f3732\jetified-camera-camera2-1.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-alpha05] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\956a582b1fff1628f0716bd6fb0f3732\jetified-camera-camera2-1.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-alpha05] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7b10353f3ede6cce81081ecfa1257853\jetified-camera-lifecycle-1.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-alpha05] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7b10353f3ede6cce81081ecfa1257853\jetified-camera-lifecycle-1.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.1.0-alpha05] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c57f163f3e5e88ebbd9a7f945bab78\jetified-camera-core-1.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.1.0-alpha05] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c57f163f3e5e88ebbd9a7f945bab78\jetified-camera-core-1.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5243c73678f8e6064aff34f2396fbf10\jetified-play-services-mlkit-face-detection-16.1.7\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5243c73678f8e6064aff34f2396fbf10\jetified-play-services-mlkit-face-detection-16.1.7\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\38c9bdad0482b827ab35c5befbf43a66\jetified-vision-common-16.3.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\38c9bdad0482b827ab35c5befbf43a66\jetified-vision-common-16.3.0\AndroidManifest.xml:6:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\0d6ff85b25e6e52b269b3e009bb6194a\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\0d6ff85b25e6e52b269b3e009bb6194a\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\3bb21b1136fbfe94f6db9b5496fef015\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\3bb21b1136fbfe94f6db9b5496fef015\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\61dc29951a451b38e03eb63efbda5343\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\61dc29951a451b38e03eb63efbda5343\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\154602205569c6147c1ab4260dd9d425\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\154602205569c6147c1ab4260dd9d425\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\17959936f75234613fb11b8c15b12e4a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\17959936f75234613fb11b8c15b12e4a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\6ecbd03c0ba003b6c6cab88140d4ae56\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\6ecbd03c0ba003b6c6cab88140d4ae56\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\8d9a160bad4acf7c4d7eed30d2bebfd0\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\8d9a160bad4acf7c4d7eed30d2bebfd0\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d0491d6f6ed4684d22d5f7d4bcab23f0\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d0491d6f6ed4684d22d5f7d4bcab23f0\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\a31267c2b9cb16c8c6674a974edcadc5\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\a31267c2b9cb16c8c6674a974edcadc5\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\80d87a1569fa646d87abf499e88e622c\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\80d87a1569fa646d87abf499e88e622c\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ae7e24b3175291cd1958f55269920237\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ae7e24b3175291cd1958f55269920237\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\dcc76cd07ebcaa6166d73d461b1667fa\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\dcc76cd07ebcaa6166d73d461b1667fa\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\1675b34388eef9cd67e00c658e34dbca\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\1675b34388eef9cd67e00c658e34dbca\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d3f23bf419afd21e5d8ed4bfd198a6dd\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d3f23bf419afd21e5d8ed4bfd198a6dd\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\18179d51c9380cb4845e7219be1c08c7\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\18179d51c9380cb4845e7219be1c08c7\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\88e514d819cd691a05d7f01d8820d6ee\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\88e514d819cd691a05d7f01d8820d6ee\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\077b22dfcccfdcca1172c5bd4cc560e1\jetified-play-services-auth-api-phone-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\077b22dfcccfdcca1172c5bd4cc560e1\jetified-play-services-auth-api-phone-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d9f7417257ce9d9b304b9cdd707bf251\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d9f7417257ce9d9b304b9cdd707bf251\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\acf8eebad1ee22a70ce9fdfcd13b52af\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\acf8eebad1ee22a70ce9fdfcd13b52af\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\9b2b6461b9eaeae3ee3880bbefba2904\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\9b2b6461b9eaeae3ee3880bbefba2904\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7d64a1cd2514583b2a458dd887234110\jetified-play-services-base-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7d64a1cd2514583b2a458dd887234110\jetified-play-services-base-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\851cd8c44ebf76c5b47504ad4cc94222\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\851cd8c44ebf76c5b47504ad4cc94222\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ef51764e1ba19e8bfbf77163877ed30c\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ef51764e1ba19e8bfbf77163877ed30c\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\b30aa8f2c38872540ef1352302c9199c\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\b30aa8f2c38872540ef1352302c9199c\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\0fe786355672e38948fbc9c1fff747a3\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\0fe786355672e38948fbc9c1fff747a3\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\2f70304b103eacfab05dbe55739e869f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\2f70304b103eacfab05dbe55739e869f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\49dee3543bc65746b6bba9f83aa0b18a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\49dee3543bc65746b6bba9f83aa0b18a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\bcd808757e47d4888ffa27457339053b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\bcd808757e47d4888ffa27457339053b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\22a5d9f52d495a432176451a4c4ba982\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\22a5d9f52d495a432176451a4c4ba982\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\2c07f8b2725cf3ca7c7510a86eb18cae\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\2c07f8b2725cf3ca7c7510a86eb18cae\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\86cf751735e9e9dd0416cce35c4a71a1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\86cf751735e9e9dd0416cce35c4a71a1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5c64f35c4f864d4cd139ccbbff91ceb9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5c64f35c4f864d4cd139ccbbff91ceb9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\9b944abc3171b1b947c5fff909724ff1\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\9b944abc3171b1b947c5fff909724ff1\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\1cfe8ee384ca28182df52c824e57e5c0\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\1cfe8ee384ca28182df52c824e57e5c0\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\6704617e5cf2b2cf363841e778f9329d\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\6704617e5cf2b2cf363841e778f9329d\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\2ee35bfe9d2e9019f071c4a047a96db2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\2ee35bfe9d2e9019f071c4a047a96db2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\361553562ce35cf8cf447832c4a7d1ec\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\361553562ce35cf8cf447832c4a7d1ec\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eebedfd6526cd5539e0a44e6886856e3\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eebedfd6526cd5539e0a44e6886856e3\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\cf37ac08cdad525e46b47ab5b0406817\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\cf37ac08cdad525e46b47ab5b0406817\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\992030e32b5b233f7b54200907a8c687\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\992030e32b5b233f7b54200907a8c687\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb99decb44820e6dccd0fcc1b7518938\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb99decb44820e6dccd0fcc1b7518938\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\3d71f750e18beb8ec39e98e4d040998e\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\3d71f750e18beb8ec39e98e4d040998e\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d55c7cacb6c69466b5c0c5f5a02c7d4c\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d55c7cacb6c69466b5c0c5f5a02c7d4c\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\694d764a55c8785e30f85a7f0e3ee2a7\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\694d764a55c8785e30f85a7f0e3ee2a7\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\6e0f82970a69a6b386ee45a08ac362fe\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\6e0f82970a69a6b386ee45a08ac362fe\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\bae4382a703142a8f82a100a412243f1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\bae4382a703142a8f82a100a412243f1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\11ae9ec956d6bcf258c0fc60ed922820\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\11ae9ec956d6bcf258c0fc60ed922820\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\a49d8fed6e1f73515c23ded9f02890c2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\a49d8fed6e1f73515c23ded9f02890c2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\df0a93a66421fbf9e2a59afc1676f766\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\df0a93a66421fbf9e2a59afc1676f766\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\9611d01e277af0a0bee38db16de6184f\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\9611d01e277af0a0bee38db16de6184f\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\1b748a836e371cc29277a1943e291316\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\1b748a836e371cc29277a1943e291316\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\268ebc0b2bd661fb18fff0cceeca14c7\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\268ebc0b2bd661fb18fff0cceeca14c7\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7c1a7b78a9eb87d9a948f050e96a4e5d\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7c1a7b78a9eb87d9a948f050e96a4e5d\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d366a337c598925c2a6ebaad24d3d1db\jetified-rxandroid-3.0.0\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\d366a337c598925c2a6ebaad24d3d1db\jetified-rxandroid-3.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\09be362b5b17ae2df23db8d40e6cc2f1\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\09be362b5b17ae2df23db8d40e6cc2f1\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tohiba\nuniyoekyc\android\app\src\debug\AndroidManifest.xml
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] C:\Users\Tohiba\nuniyoekyc\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+queries
+ADDED from [:file_picker] C:\Users\Tohiba\nuniyoekyc\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
+MERGED from [:digio_esign_sdk] C:\Users\Tohiba\nuniyoekyc\build\digio_esign_sdk\.transforms\dd0830328fa43be7ff6a4ce844694427\jetified-digio-esign-v2.8.4\AndroidManifest.xml:10:5-16:15
+MERGED from [:digio_esign_sdk] C:\Users\Tohiba\nuniyoekyc\build\digio_esign_sdk\.transforms\dd0830328fa43be7ff6a4ce844694427\jetified-digio-esign-v2.8.4\AndroidManifest.xml:10:5-16:15
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] C:\Users\Tohiba\nuniyoekyc\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] C:\Users\Tohiba\nuniyoekyc\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] C:\Users\Tohiba\nuniyoekyc\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:21-69
+data
+ADDED from [:file_picker] C:\Users\Tohiba\nuniyoekyc\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-44
+	android:mimeType
+		ADDED from [:file_picker] C:\Users\Tohiba\nuniyoekyc\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-41
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [:local_auth] C:\Users\Tohiba\nuniyoekyc\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-74
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\44ab6804b80638410c6c0827d4445946\biometric-1.1.0\AndroidManifest.xml:27:5-74
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\44ab6804b80638410c6c0827d4445946\biometric-1.1.0\AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from [:local_auth] C:\Users\Tohiba\nuniyoekyc\build\local_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.CAMERA
+ADDED from [:camera] C:\Users\Tohiba\nuniyoekyc\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+MERGED from [:camerawesome] C:\Users\Tohiba\nuniyoekyc\build\camerawesome\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+MERGED from [:camerawesome] C:\Users\Tohiba\nuniyoekyc\build\camerawesome\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from [:camera] C:\Users\Tohiba\nuniyoekyc\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera] C:\Users\Tohiba\nuniyoekyc\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:camera] C:\Users\Tohiba\nuniyoekyc\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:sim_info] C:\Users\Tohiba\nuniyoekyc\build\sim_info\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from [:sim_info] C:\Users\Tohiba\nuniyoekyc\build\sim_info\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-72
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] C:\Users\Tohiba\nuniyoekyc\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] C:\Users\Tohiba\nuniyoekyc\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] C:\Users\Tohiba\nuniyoekyc\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] C:\Users\Tohiba\nuniyoekyc\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+activity#com.razorpay.CheckoutActivity
+ADDED from [:razorpay_flutter] C:\Users\Tohiba\nuniyoekyc\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:20
+MERGED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:18:9-29:20
+MERGED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:18:9-29:20
+	android:label
+		ADDED from [:razorpay_flutter] C:\Users\Tohiba\nuniyoekyc\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-46
+	android:configChanges
+		ADDED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:20:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [:razorpay_flutter] C:\Users\Tohiba\nuniyoekyc\build\razorpay_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-57
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from [:digio_esign_sdk] C:\Users\Tohiba\nuniyoekyc\build\digio_esign_sdk\.transforms\dd0830328fa43be7ff6a4ce844694427\jetified-digio-esign-v2.8.4\AndroidManifest.xml:11:9-15:18
+action#android.intent.action.VIEW
+ADDED from [:digio_esign_sdk] C:\Users\Tohiba\nuniyoekyc\build\digio_esign_sdk\.transforms\dd0830328fa43be7ff6a4ce844694427\jetified-digio-esign-v2.8.4\AndroidManifest.xml:12:13-65
+	android:name
+		ADDED from [:digio_esign_sdk] C:\Users\Tohiba\nuniyoekyc\build\digio_esign_sdk\.transforms\dd0830328fa43be7ff6a4ce844694427\jetified-digio-esign-v2.8.4\AndroidManifest.xml:12:21-62
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\44ab6804b80638410c6c0827d4445946\biometric-1.1.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\44ab6804b80638410c6c0827d4445946\biometric-1.1.0\AndroidManifest.xml:24:22-69
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5243c73678f8e6064aff34f2396fbf10\jetified-play-services-mlkit-face-detection-16.1.7\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\38c9bdad0482b827ab35c5befbf43a66\jetified-vision-common-16.3.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\38c9bdad0482b827ab35c5befbf43a66\jetified-vision-common-16.3.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5243c73678f8e6064aff34f2396fbf10\jetified-play-services-mlkit-face-detection-16.1.7\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5243c73678f8e6064aff34f2396fbf10\jetified-play-services-mlkit-face-detection-16.1.7\AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5243c73678f8e6064aff34f2396fbf10\jetified-play-services-mlkit-face-detection-16.1.7\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5243c73678f8e6064aff34f2396fbf10\jetified-play-services-mlkit-face-detection-16.1.7\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\5243c73678f8e6064aff34f2396fbf10\jetified-play-services-mlkit-face-detection-16.1.7\AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\38c9bdad0482b827ab35c5befbf43a66\jetified-vision-common-16.3.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\38c9bdad0482b827ab35c5befbf43a66\jetified-vision-common-16.3.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.3.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\38c9bdad0482b827ab35c5befbf43a66\jetified-vision-common-16.3.0\AndroidManifest.xml:13:17-124
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ae7e24b3175291cd1958f55269920237\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\694d764a55c8785e30f85a7f0e3ee2a7\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\694d764a55c8785e30f85a7f0e3ee2a7\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\ae7e24b3175291cd1958f55269920237\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:22-76
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:17.1.1] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\e23355652924bb57faf9211955fd9591\jetified-common-17.1.1\AndroidManifest.xml:21:17-120
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\06cbf82235ff7888b1bd00b365b37ed7\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\87ab190c9cd170b303c55045ac8519f5\jetified-transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:12:9-16:20
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:12:19-63
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:13:13-15:29
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:14:17-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:14:25-62
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.6.10] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\eb05071a4d76bedeae969a13beb996f0\jetified-checkout-1.6.10\AndroidManifest.xml:22:13-28:29
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\78c38c7d4c39204d65cf196b885d8bdc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7d64a1cd2514583b2a458dd887234110\jetified-play-services-base-17.6.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7d64a1cd2514583b2a458dd887234110\jetified-play-services-base-17.6.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7d64a1cd2514583b2a458dd887234110\jetified-play-services-base-17.6.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\7d64a1cd2514583b2a458dd887234110\jetified-play-services-base-17.6.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\b30aa8f2c38872540ef1352302c9199c\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\b30aa8f2c38872540ef1352302c9199c\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\Tohiba\.gradle\caches\transforms-2\files-2.1\b30aa8f2c38872540ef1352302c9199c\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58

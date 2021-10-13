@@ -1,0 +1,72 @@
+com/apparence/camerawesome/CameraPermissions.java
+ com.apparence.camerawesome.CameraPermissions
+com/apparence/camerawesome/CameraPictureStates.java
+ com.apparence.camerawesome.CameraPictureStates
+com/apparence/camerawesome/image/ImgConverter.java
+ com.apparence.camerawesome.image.ImgConverter
+com/apparence/camerawesome/CamerawesomePlugin.java
+ com.apparence.camerawesome.CamerawesomePlugin
+ com.apparence.camerawesome.CamerawesomePlugin$1
+ com.apparence.camerawesome.CamerawesomePlugin$2
+com/apparence/camerawesome/CameraStateManager.java
+ com.apparence.camerawesome.CameraStateManager
+ com.apparence.camerawesome.CameraStateManager$OnCameraState
+com/apparence/camerawesome/BuildConfig.java
+ com.apparence.camerawesome.BuildConfig
+com/apparence/camerawesome/CameraSetup.java
+ com.apparence.camerawesome.CameraSetup
+ com.apparence.camerawesome.CameraSetup$1
+com/apparence/camerawesome/exceptions/CameraManagerException.java
+ com.apparence.camerawesome.exceptions.CameraManagerException
+ com.apparence.camerawesome.exceptions.CameraManagerException$Codes
+com/apparence/camerawesome/sensors/SensorOrientationListener.java
+ com.apparence.camerawesome.sensors.SensorOrientationListener
+com/apparence/camerawesome/surface/SurfaceFactory.java
+ com.apparence.camerawesome.surface.SurfaceFactory
+com/apparence/camerawesome/image/YuvToJpgConverter.java
+ com.apparence.camerawesome.image.YuvToJpgConverter
+com/apparence/camerawesome/sensors/LuminosityNotifier.java
+ com.apparence.camerawesome.sensors.LuminosityNotifier
+com/apparence/camerawesome/CameraSettingsManager.java
+ com.apparence.camerawesome.CameraSettingsManager
+ com.apparence.camerawesome.CameraSettingsManager$CameraSettings
+ com.apparence.camerawesome.CameraSettingsManager$CameraSettingsHandler
+com/apparence/camerawesome/exceptions/CameraPreviewException.java
+ com.apparence.camerawesome.exceptions.CameraPreviewException
+ com.apparence.camerawesome.exceptions.CameraPreviewException$Codes
+com/apparence/camerawesome/sensors/BasicLuminosityNotifier.java
+ com.apparence.camerawesome.sensors.BasicLuminosityNotifier
+ com.apparence.camerawesome.sensors.BasicLuminosityNotifier$1
+com/apparence/camerawesome/CameraSensor.java
+ com.apparence.camerawesome.CameraSensor
+com/apparence/camerawesome/CameraPreview.java
+ com.apparence.camerawesome.CameraPreview
+ com.apparence.camerawesome.CameraPreview$1
+ com.apparence.camerawesome.CameraPreview$2
+ com.apparence.camerawesome.CameraPreview$2$1
+ com.apparence.camerawesome.CameraPreview$2$1$1
+ com.apparence.camerawesome.CameraPreview$3
+com/apparence/camerawesome/CameraPicture.java
+ com.apparence.camerawesome.CameraPicture
+ com.apparence.camerawesome.CameraPicture$1
+ com.apparence.camerawesome.CameraPicture$2
+ com.apparence.camerawesome.CameraPicture$3
+ com.apparence.camerawesome.CameraPicture$4
+ com.apparence.camerawesome.CameraPicture$OnImageResult
+com/apparence/camerawesome/surface/FlutterSurfaceFactory.java
+ com.apparence.camerawesome.surface.FlutterSurfaceFactory
+com/apparence/camerawesome/models/FlashMode.java
+ com.apparence.camerawesome.models.FlashMode
+com/apparence/camerawesome/sensors/SensorOrientation.java
+ com.apparence.camerawesome.sensors.SensorOrientation
+com/apparence/camerawesome/image/ImgConverterThreaded.java
+ com.apparence.camerawesome.image.ImgConverterThreaded
+ com.apparence.camerawesome.image.ImgConverterThreaded$1
+ com.apparence.camerawesome.image.ImgConverterThreaded$Consumer
+com/apparence/camerawesome/CameraSession.java
+ com.apparence.camerawesome.CameraSession
+ com.apparence.camerawesome.CameraSession$1
+ com.apparence.camerawesome.CameraSession$OnCaptureSession
+com/apparence/camerawesome/models/CameraCharacteristicsModel.java
+ com.apparence.camerawesome.models.CameraCharacteristicsModel
+ com.apparence.camerawesome.models.CameraCharacteristicsModel$Builder

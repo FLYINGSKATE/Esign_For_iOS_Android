@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml:2:3-42
+		INJECTED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml:3:5-8:19
+activity#com.razorpay.CheckoutActivity
+ADDED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml:4:9-7:20
+	android:label
+		ADDED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml:6:17-50
+	android:name
+		ADDED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml:5:17-61
+uses-sdk
+INJECTED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tohiba\Downloads\flutter_windows_2.2.3-stable\flutter\.pub-cache\hosted\pub.dartlang.org\razorpay_flutter-1.2.7\android\src\main\AndroidManifest.xml
