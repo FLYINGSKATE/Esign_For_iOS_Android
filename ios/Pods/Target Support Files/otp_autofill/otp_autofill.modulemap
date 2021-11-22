@@ -1,0 +1,6 @@
+framework module otp_autofill {
+  umbrella header "otp_autofill-umbrella.h"
+
+  export *
+  module * { export * }
+}

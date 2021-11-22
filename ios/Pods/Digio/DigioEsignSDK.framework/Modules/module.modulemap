@@ -1,0 +1,11 @@
+framework module DigioEsignSDK {
+  umbrella header "DigioEsignSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module DigioEsignSDK.Swift {
+    header "DigioEsignSDK-Swift.h"
+    requires objc
+}

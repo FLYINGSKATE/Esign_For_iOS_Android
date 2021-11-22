@@ -1,0 +1,6 @@
+framework module sim_info {
+  umbrella header "sim_info-umbrella.h"
+
+  export *
+  module * { export * }
+}
