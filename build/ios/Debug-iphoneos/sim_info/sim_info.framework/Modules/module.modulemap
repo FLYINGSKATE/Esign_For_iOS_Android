@@ -1,0 +1,11 @@
+framework module sim_info {
+  umbrella header "sim_info-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module sim_info.Swift {
+    header "sim_info-Swift.h"
+    requires objc
+}

@@ -1,0 +1,6 @@
+framework module downloads_path_provider {
+  umbrella header "downloads_path_provider-umbrella.h"
+
+  export *
+  module * { export * }
+}
