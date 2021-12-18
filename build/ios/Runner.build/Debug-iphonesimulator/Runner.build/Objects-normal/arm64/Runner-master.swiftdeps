@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
-options: "e10e3bbf41d27562fa287979043597db76b2769e567ebbdf0618f37e4fc8fa71"
-build_start_time: [1637563496, 731363058]
-build_end_time: [1637563497, 511857986]
-inputs:
-  "/Users/mangeshparab/Sourcecode/NuniyoEKYC/ios/Runner/AppDelegate.swift": [1637559815, 14802455]

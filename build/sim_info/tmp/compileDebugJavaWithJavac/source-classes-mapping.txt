@@ -1,4 +1,0 @@
-flutter/moum/sim_info/SimInfoPlugin.java
- flutter.moum.sim_info.SimInfoPlugin
-flutter/moum/sim_info/BuildConfig.java
- flutter.moum.sim_info.BuildConfig

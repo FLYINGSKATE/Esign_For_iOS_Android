@@ -42,6 +42,8 @@ class NewsViewController: UIViewController {
     extension NewsViewController : DigioEsignDelegate {
         func onDigioResponseSuccess(response: String) {
             print("Success \(response)")
+            //Call the Check Esign Apis here
+
             coordinatorDelegate?.navigateToFlutter()
         }
 

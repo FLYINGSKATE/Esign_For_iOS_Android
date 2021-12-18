@@ -72,7 +72,7 @@ public class DigioActivity extends AppCompatActivity implements com.digio.in.esi
         Log.d(TAG, "Starting Waiting Screen to check if Aadhars are same As we have successfully signed in");
         Intent intent = new Intent(this, MainActivity.class);
         intent.setAction(Intent.ACTION_RUN);
-        intent.putExtra("route", "EsignResponse");
+        intent.putExtra("route", "Esign");
 
         ///Request code is to IDentity what Results we want from another activity if the
         //Activity gives back multiple results.

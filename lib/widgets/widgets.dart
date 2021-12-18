@@ -1,10 +1,12 @@
 ///Consists of Customized Widget(Such as Button ,Input Texts etc.)
 // Made for Nuniyo to use
 // By the overall screens of App
+import 'package:esign/globals.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:nuniyoekyc/globals.dart';
+
+
+
 
 class WidgetHelper extends StatefulWidget {
   const WidgetHelper({Key? key}) : super(key: key);
@@ -40,35 +42,13 @@ class WidgetHelper extends StatefulWidget {
 
   AppBar NuniyoAppBar(){
     return AppBar(
-      leading: Padding(child:Image.asset('assets/images/appiconfinal.png'),padding: EdgeInsets.only(left: 10),),
-      title: Text('Mangal Keshav',style: GoogleFonts.openSans(fontSize: 18,textStyle: TextStyle(color: Colors.black, letterSpacing: .5,fontWeight: FontWeight.bold))),
+      title: Text('Flutter ESign',style: GoogleFonts.openSans(fontSize: 18,textStyle: TextStyle(color: Colors.black, letterSpacing: .5,fontWeight: FontWeight.bold))),
       backgroundColor: secondaryColorOfApp,
       elevation: 0,
     );
   }
 
-  Widget NuniyoUINavigatorBtn(BuildContext context , String screenName ,String btnText){
-    return Padding(
-      padding: const EdgeInsets.all(10.0),
-      child: Container(
-        width: MediaQuery.of(context).size.width/2.5,
-        color: Colors.transparent,
-        height: 60,
-        child: FlatButton(
-          shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(8.0),
-          ),
-          onPressed:()=> Navigator.pushNamed(context, screenName),
-          color:Color(0xff6A4EEE),
-          child: Text(
-              btnText,
-              style: GoogleFonts.openSans(
-                textStyle: TextStyle(color: Colors.white, letterSpacing: .5,fontSize: 16,fontWeight: FontWeight.bold),)
-          ),
-        ),
-      ),
-    );
-  }
+  
 
   Widget DetailsTitle(String detailsTitle){
     return Column(

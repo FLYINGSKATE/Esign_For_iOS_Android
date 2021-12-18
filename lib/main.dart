@@ -6,22 +6,8 @@ import 'dart:io';
 ///USE THE ABOVE LINK TO INTEGRATE DIGIO ESIGN ON IOS
 
 import 'package:flutter/material.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_bank_email_pan_validation_screen.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_commodity_upload_screen.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_congrats_screen.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_esign_screen.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_esign_screen_duplicate.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_mobile_validation_screen.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_options_screen_two.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_penny_drop_screen.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_personal_details_screen.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_upload_documents_and_signature.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_waiting_for_esign_screen.dart';
-import 'package:nuniyoekyc/nuniyo_screens/nuniyo_webcam_screen.dart';
-import 'package:nuniyoekyc/utils/Router.dart';
-import 'package:webviewx/webviewx.dart';
 
-import 'nuniyo_screens/nuniyo_digilocker_web_view.dart';
+import 'Screens/esign_screen.dart';
 
 void main() {
   ///TO hide Red Screen of Death!
@@ -48,7 +34,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Mangal Keshav',
+      title: 'Flutter eSIGN',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         inputDecorationTheme: InputDecorationTheme(
@@ -77,9 +63,7 @@ class MyApp extends StatelessWidget {
         //#6A4EEE
         primaryColor: Color(0xffc41e1c),
       ),
-      //home:WebCamScreen(),
-      initialRoute: '/',
-      onGenerateRoute: ScreenRouter.generateRoute,
+      home:EsignScreen(),
     );
   }
 }
