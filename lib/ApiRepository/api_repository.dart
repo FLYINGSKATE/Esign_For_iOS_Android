@@ -33,21 +33,21 @@ class ApiRepository {
   Future<void> SetJwtToken(String token) async{
     SharedPreferences prefs = await SharedPreferences.getInstance();
     prefs.setString(JWT_TOKEN_KEY,token);
-    print("Your JWT is :"+prefs.getString(JWT_TOKEN_KEY));
+    print("Your JWT is :"+token);
   }
 
   Future<String> GetCurrentJWTToken() async{
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String jwt_token= prefs.getString(JWT_TOKEN_KEY);
-    print("JWT STORED INSIDE SHARED PREFERENCES :" + jwt_token);
+    String? jwt_token= prefs.getString(JWT_TOKEN_KEY);
+    print("JWT STORED INSIDE SHARED PREFERENCES :" + jwt_token!);
     return jwt_token;
   }
 
   Future<String> GetLeadId() async{
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String lead_id= prefs.getString(LEAD_ID_KEY);
+    String? lead_id= prefs.getString(LEAD_ID_KEY);
     print(lead_id);
-    print("LEAD ID STORED INSIDE SHARED PREFERENCES :" + lead_id);
+    print("LEAD ID STORED INSIDE SHARED PREFERENCES :" + lead_id!);
     return lead_id;
   }
 
@@ -79,23 +79,23 @@ class ApiRepository {
     }
   }
 
-  Future<String> Get_ESIGN_DOC_ID() async{
+  Future<String?> Get_ESIGN_DOC_ID() async{
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String docId= prefs.getString(DOC_ID_ESIGN_KEY);
-    print("DOC ID STORED INSIDE SHARED PREFERENCES :" + docId);
+    String? docId= prefs.getString(DOC_ID_ESIGN_KEY);
+    print("DOC ID STORED INSIDE SHARED PREFERENCES :" + docId!);
     return docId;
   }
 
   Future<void> Set_ESIGN_DOC_ID(String docID) async{
     SharedPreferences prefs = await SharedPreferences.getInstance();
     prefs.setString(DOC_ID_ESIGN_KEY,docID);
-    print("Your DOC ID is :"+prefs.getString(DOC_ID_ESIGN_KEY));
+    print("Your DOC ID is :"+docID);
   }
 
-  Future<String> GetMobileNumber() async{
+  Future<String?> GetMobileNumber() async{
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String mobile_no= prefs.getString(MOBILE_NUMBER_KEY);
-    print("LEAD ID STORED INSIDE SHARED PREFERENCES :" + mobile_no);
+    String? mobile_no= prefs.getString(MOBILE_NUMBER_KEY);
+    print("LEAD ID STORED INSIDE SHARED PREFERENCES :" + mobile_no!);
     return mobile_no;
   }
 
@@ -104,8 +104,8 @@ class ApiRepository {
     String jwt_token= await GetCurrentJWTToken();
     print("Calling Get_eSign_Document_Details Using API"+jwt_token);
 
-    String doc_id = await Get_ESIGN_DOC_ID();
-    print("Calling Get_eSign_Document_Details DOC ID for "+doc_id);
+    String? doc_id = await Get_ESIGN_DOC_ID();
+    print("Calling Get_eSign_Document_Details DOC ID for "+doc_id!);
 
     String lead_id = await GetLeadId();
     print("Get_eSign_Document_Details for Lead ID : "+lead_id);
@@ -153,8 +153,8 @@ class ApiRepository {
     String lead_id = await GetLeadId();
     print("Digio_eSign_Document_Upload for Lead ID : "+lead_id);
 
-    String mobile_no = await GetMobileNumber();
-    print("Digio_eSign_Document_Upload for Mobile Number : "+mobile_no);
+    String? mobile_no = await GetMobileNumber();
+    print("Digio_eSign_Document_Upload for Mobile Number : "+mobile_no!);
 
     var headers = {
       'Authorization': 'Bearer $jwt_token',
@@ -196,8 +196,8 @@ class ApiRepository {
     String lead_id = await GetLeadId();
     print("Download_Application_Pdf for Lead ID : "+lead_id);
 
-    String doc_id = await Get_ESIGN_DOC_ID();
-    print("Download_Application_Pdf for Doc Id : "+doc_id);
+    String? doc_id = await Get_ESIGN_DOC_ID();
+    print("Download_Application_Pdf for Doc Id : "+doc_id!);
 
     var headers = {
       'Authorization': 'Bearer $jwt_token',
@@ -230,8 +230,8 @@ class ApiRepository {
     String lead_id = await GetLeadId();
     print("Digio_eSign_Document_Download for Lead ID : "+lead_id);
 
-    String doc_id = await Get_ESIGN_DOC_ID();
-    print("Digio_eSign_Document_Download for Doc Id : "+doc_id);
+    String? doc_id = await Get_ESIGN_DOC_ID();
+    print("Digio_eSign_Document_Download for Doc Id : "+doc_id!);
 
     var headers = {
       'Authorization': 'Bearer $jwt_token',

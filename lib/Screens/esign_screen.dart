@@ -209,8 +209,8 @@ class _EsignScreenState extends State<EsignScreen> {
 
     SharedPreferences prefs = await SharedPreferences.getInstance();
     if(PHONE_NUMBER.isEmpty){
-      String phoneNumber = await prefs.getString(MOBILE_NUMBER_KEY);
-      PHONE_NUMBER = phoneNumber;
+      String? phoneNumber = await prefs.getString(MOBILE_NUMBER_KEY);
+      PHONE_NUMBER = phoneNumber!;
     }
 
     await prefs.setString(DOC_ID_ESIGN_KEY,docID);

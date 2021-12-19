@@ -18,9 +18,9 @@ class StoreLocal{
     prefs.setString(mobileNumberKey,mobileNumber);
   }
 
-  Future<String> getPhoneNumberFromLocalStorage() async {
+  Future<String?> getPhoneNumberFromLocalStorage() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String phoneNumber = prefs.getString(mobileNumberKey);
+    String? phoneNumber = prefs.getString(mobileNumberKey);
     return phoneNumber;
   }
 
@@ -30,9 +30,9 @@ class StoreLocal{
     prefs.setString(leadIDKey,value);
   }
 
-  Future<String> getLeadIdFromLocalStorage() async {
+  Future<String?> getLeadIdFromLocalStorage() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String value = prefs.getString(leadIDKey);
+    String? value = prefs.getString(leadIDKey);
     return value;
   }
 
@@ -42,9 +42,9 @@ class StoreLocal{
     prefs.setString(emailIdKey,value);
   }
 
-  Future<String> getEmailIdFromLocalStorage() async {
+  Future<String?> getEmailIdFromLocalStorage() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String value = prefs.getString(emailIdKey);
+    String? value = prefs.getString(emailIdKey);
     return value;
   }
 
@@ -54,9 +54,9 @@ class StoreLocal{
     prefs.setString(panNumberKey,value);
   }
 
-  Future<String> getPANNumberFromLocalStorage() async {
+  Future<String?> getPANNumberFromLocalStorage() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String value = prefs.getString(panNumberKey);
+    String? value = prefs.getString(panNumberKey);
     return value;
   }
 
@@ -67,9 +67,9 @@ class StoreLocal{
     prefs.setString(fatherNameKey,value);
   }
 
-  Future<String> getFatherNameFromLocalStorage() async {
+  Future<String?> getFatherNameFromLocalStorage() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String value = prefs.getString(fatherNameKey);
+    String? value = prefs.getString(fatherNameKey);
     return value;
   }
 
@@ -80,9 +80,9 @@ class StoreLocal{
     prefs.setString(motherNameKey,value);
   }
 
-  Future<String> getMotherNameFromLocalStorage() async {
+  Future<String?> getMotherNameFromLocalStorage() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String value = prefs.getString(motherNameKey);
+    String? value = prefs.getString(motherNameKey);
     return value;
   }
 
@@ -93,9 +93,9 @@ class StoreLocal{
     prefs.setString(routeNameKey,value);
   }
 
-  Future<String> getRouteNameFromLocalStorage() async {
+  Future<String?> getRouteNameFromLocalStorage() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String value = prefs.getString(routeNameKey);
+    String? value = prefs.getString(routeNameKey);
     return value;
   }
 
@@ -104,9 +104,9 @@ class StoreLocal{
     prefs.setString(stageKey,stageId);
   }
 
-  Future<String> getStageIdFromLocalStorage() async {
+  Future<String?> getStageIdFromLocalStorage() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    String phoneNumber = prefs.getString(stageKey);
+    String? phoneNumber = prefs.getString(stageKey);
     return phoneNumber;
   }
 }
